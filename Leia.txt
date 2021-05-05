@@ -1,0 +1,27 @@
+Basta iniciar ambos os scripts
+
+ensure devil_tubarao
+ensure nav_tubarao
+
+
+Os locais já irão aparecer no mapa, para configurar quantidade de itens e itens 
+e só ir no server-side do devil_tubarao e configurar da forma que quiser..
+
+no client-side você apenas configura questão de coordenadas e blips nada além disso!
+
+
+E no nav_tubarao coordenada/preço da barbatana do tubarão
+
+O emprego funciona da seguinte forma : Você irá pegar o emprego e depois um barco
+
+Precisa ter uma arma ou algo para matar o tubarão enquanto ele está na agua
+
+(Recomendado uso da roupa de mergulho para não se afogar rs)
+
+Depois de matar ele, basta ir lá e pegar o corpo do mesmo para depois vender as barbatanas
+Após matar um já spawna outro
+
+
+Deem os creditos ao postar
+
+Devil#0069
